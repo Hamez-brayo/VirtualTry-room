@@ -14,4 +14,7 @@
     <string name="password_lgn">Password</string>
     <string name="login_tf">LOGIN</string>
     <string name="dont_have_an_account">Dont have an account?</string>
+    <string name="get_started">Get Started</string>
+    <string name="create_your_avatar">Create your avatar</string>
+    <string name="get_started_btn">Get Started</string>
 </resources>
