@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Dress up Droid</string>
+    <string name="register">REGISTER</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="contact">Contact</string>
+    <string name="password">Password</string>
+    <string name="password_confirm">Password Confirm</string>
+    <string name="register_button">REGISTER</string>
+    <string name="have_an_account">Have an account?</string>
+    <string name="login">LOGIN</string>
+    <string name="email_lgn">Email</string>
+    <string name="password_lgn">Password</string>
+    <string name="login_tf">LOGIN</string>
+    <string name="dont_have_an_account">Dont have an account?</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "969764767345",
+    "project_id": "virtual-try-room",
+    "storage_bucket": "virtual-try-room.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969764767345:android:b2ff295b9fd0085287bdd0",
+        "android_client_info": {
+          "package_name": "com.example.virtualtry_room"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdxh1ZiWiDbz8YV0FyjzWTsYFAI4nxeyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
