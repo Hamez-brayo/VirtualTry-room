@@ -7,7 +7,8 @@ import android.os.Bundle
 import android.os.Handler
 import androidx.appcompat.app.AppCompatDelegate
 import androidx.navigation.ui.AppBarConfiguration
-import com.example.virtualtry_room.databinding.ActivityMainBinding
+import com.kotlin.readyplayerme.R
+import com.kotlin.readyplayerme.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     lateinit var handler: Handler

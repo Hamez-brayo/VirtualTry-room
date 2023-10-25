@@ -5,8 +5,9 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.text.TextUtils
 import android.widget.Toast
-import com.example.virtualtry_room.databinding.ActivityLoginBinding
 import com.google.firebase.auth.FirebaseAuth
+import com.kotlin.readyplayerme.R
+import com.kotlin.readyplayerme.databinding.ActivityLoginBinding
 
 class Login : AppCompatActivity() {
     lateinit var binding: ActivityLoginBinding

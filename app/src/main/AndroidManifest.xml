@@ -23,16 +23,19 @@
         android:theme="@style/Theme.VirtualTryroom"
         tools:targetApi="31">
         <activity
-            android:name=".Landing"
+            android:name="com.example.virtualtry_room.WebViewActivity"
             android:exported="false" />
         <activity
-            android:name=".Registration"
+            android:name="com.example.virtualtry_room.Landing"
             android:exported="false" />
         <activity
-            android:name=".Login"
+            android:name="com.example.virtualtry_room.Registration"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name="com.example.virtualtry_room.Login"
+            android:exported="false" />
+        <activity
+            android:name="com.example.virtualtry_room.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
