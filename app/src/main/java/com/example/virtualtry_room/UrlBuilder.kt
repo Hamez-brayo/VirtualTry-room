@@ -1,7 +1,7 @@
 package com.example.virtualtry_room
 
 data class UrlConfig(
-    var subdomain: String = "demo",
+    var subdomain: String = "virtual-try-on-tgzei5",
     var clearCache: Boolean = false,
     var quickStart: Boolean = false,
     var gender: Gender = Gender.NONE,
